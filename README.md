@@ -13,4 +13,4 @@ Link: _https://github.com/anujvyas/Natural-Language-Processing-Projects/tree/mas
 
 • A glimpse of the web app:
 
-![GIF](readme_resources/spam-sms-web-app.gif)
+
