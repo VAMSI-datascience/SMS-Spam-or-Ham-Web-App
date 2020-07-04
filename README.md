@@ -11,7 +11,7 @@ Deployed at: https://messagespam.herokuapp.com/
  + And the **templates** folder consists of the HTML files and the Static folder consists of the css file required for our web-app.
  + And there is a **requirements.txt** file where it contains all the dependencies and the procfile to confirm that it is the web gui.
 
-• Please do ⭐ the repository, if it helped you in anyway.
+ + Please do ⭐ the repository, if it helped you in anyway.
 
 
 
